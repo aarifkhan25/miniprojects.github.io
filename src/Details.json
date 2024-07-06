@@ -1,0 +1,165 @@
+[
+  
+  {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF-mrArnK_12MZ2hzmC8SfGoV95tFjwo4YrA&s",
+      "name": "Masaba Masaba",
+      "rating": "7.3",
+      "genre": "Comedy, Drama",
+      "trailer_link": "https://youtu.be/EnTMNHkxv0o",
+      "description": " Designer, Life",
+      "category": "13+"
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRGxX3r9-TQEyfcnH6IcaqwjQ2Y-C2tRxZVQ&s",
+    "name": "Bard of Blood",
+    "rating": "6.8",
+    "genre": "Action, Thriller",
+    "trailer_link": "https://youtu.be/XgB4gaY2dWE",
+    "description": "Spy,Indian",
+    "category": "18+"
+},
+{
+    "image": "https://m.media-amazon.com/images/M/MV5BYzc4ZmFhZjItOWJjMy00YzhiLTkxMDAtNWUyNjIyOTJkYmY3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg",
+    "name": "She",
+    "rating": "6.5",
+    "genre": "Drama, Crime",
+    "trailer_link": "https://youtu.be/9xJxTRmeWno",
+    "description": "Undercover,Cartel",
+    "category": "18+"
+},
+{
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhCGsgPeDDqWEQIUDhLQq1iXeTUvKJn5P45w&s",
+    "name": "Betaal",
+    "rating": "5.5",
+    "genre": "Horror, Action",
+    "trailer_link": "https://youtu.be/hCgJIa1_Yhw",
+    "description": "Undead,Village",
+    "category": "18+"
+},
+{
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKUKLcr6FKSi-IHF3eOfpULw7aszKhqv3_MQ&s",
+    "name": "The Raikar Case",
+    "rating": "7.4",
+    "genre": "Drama, Thriller",
+    "trailer_link": "https://youtu.be/BXId-vvH6W0",
+    "description": "Family,Suspicion",
+    "category": "16+"
+},
+  {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6YCklpCrhlk5nM4RJt1LP2aAF24rI9K9lQw&s",
+      "name": "Mismatched",
+      "rating": "7",
+      "genre": "Comedy, Drama",
+      "trailer_link": "https://youtu.be/IBFkzFR4WUc",
+      "description": "Contrasting, Tech",
+      "category": "13+"
+  },
+  {
+      "image": "https://m.media-amazon.com/images/M/MV5BMzZkZjFhNGYtMzM3MS00MmFlLTg2NTEtZWJjYmY3MDg0MGM2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "name": "Bombay Begums",
+      "rating": "6.5",
+      "genre": "Drama",
+      "trailer_link": "https://youtu.be/Rikfl927Xoc",
+      "description": "Desire, Ethics",
+      "category": "18+"
+  },
+  {
+      "image": "https://m.media-amazon.com/images/M/MV5BZWI4NjY1MmQtN2QwNS00YTQwLWJlNDItMjZjMjE1ODk3MzI4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "Little Things",
+      "rating": "8.2",
+      "genre": "Comedy, Romance",
+      "trailer_link": "https://youtu.be/_aGtRxU5l3A",
+      "description": "Modern, Relationships",
+      "category": "16+"
+  },
+  {
+      "image": "https://m.media-amazon.com/images/M/MV5BYjM1ZTVhY2UtY2QxNS00YWZhLThkYmUtNmM5MTdkNDI2NDk2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+      "name": "Aarya",
+      "rating": "7.9",
+      "genre": "Crime, Drama",
+      "trailer_link": "https://youtu.be/b5zz2UJL1t4",
+      "description": "Drug, Business",
+      "category": "18+"
+  },
+  {
+      "image": "https://picfiles.alphacoders.com/202/thumb-202586.jpg",
+      "name": "Sacred Games",
+      "rating": "9",
+      "genre": "Crime, Thriller",
+      "trailer_link": "https://youtu.be/d2s8oEelLZE",
+      "description": "Police, Terrorism",
+      "category": "18+"
+  },
+  {
+      "image": "https://m.media-amazon.com/images/M/MV5BYjQ2YmE4OWUtNDZhZi00ZGYxLTg4MzYtYWIwMWI1NDQ5ZDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+      "name": "Delhi Crime",
+      "rating": "8.5",
+      "genre": "Crime, Drama",
+      "trailer_link": "https://youtu.be/Y7rwFY8Q4lA",
+      "description": "Rape, Police",
+      "category": "18+"
+  },
+  {
+      "image": "https://m.media-amazon.com/images/M/MV5BZjJkOWE2OTgtZDU3Zi00OGRiLTljNGQtM2I5YTBiZDM3OGNjXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_FMjpg_UX1000_.jpg",
+      "name": "Leila",
+      "rating": "7.5",
+      "genre": "Drama, Sci-Fi",
+      "trailer_link": "https://youtu.be/F9e3qGdhSjs",
+      "description": "Dystopian,Kidnap",
+      "category": "18+"
+  },
+  {
+      "image": "https://m.media-amazon.com/images/M/MV5BYjdkY2I0ZTItMjhiNC00MDRiLWJkNDAtMGFkN2YzZjNjNjBiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+      "name": "Selection Day",
+      "rating": "7",
+      "genre": "Drama, Sport",
+      "trailer_link": "https://youtu.be/7gTgi08xD28",
+      "description": "Competition, Brothers",
+      "category": "13+"
+  },
+  {
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAyMDMzNTU5M15BMl5BanBnXkFtZTgwMjg2NjExNjM@._V1_FMjpg_UX1000_.jpg",
+      "name": "Ghoul",
+      "rating": "7.2",
+      "genre": "Horror, Thriller",
+      "trailer_link": "https://youtu.be/rWg7yrKb_sM",
+      "description": "Interrogator, Secret",
+      "category": "18+"
+  },
+  {
+      "image": "https://m.media-amazon.com/images/M/MV5BZjZiNWYxZWEtNTQ4ZC00ZjRkLWI5MjctNjUxZDBiMjNlOWRjXkEyXkFqcGdeQXVyMTIzODE3MDcx._V1_.jpg",
+      "name": "Taj Mahal 1989",
+      "rating": "8",
+      "genre": "Drama, Romance",
+      "trailer_link": "https://youtu.be/Tg1PHLNUz80",
+      "description": "Love, Politics",
+      "category": "16+"
+  },
+  {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf7w0VNFR1TO3M3HMGr1P3Wxv8ZD8RlPiQGQ&s",
+      "name": "Typewriter",
+      "rating": "6.5",
+      "genre": "Horror, Mystery",
+      "trailer_link": "https://youtu.be/2QYpNXhU-r8",
+      "description": "Haunted,Kids",
+      "category": "16+"
+  },
+  {
+      "image": "https://m.media-amazon.com/images/M/MV5BZWE1ODY0Y2MtODM4OC00MTNlLTgxYTEtOTI5YzU2NDQ4ZTIwXkEyXkFqcGdeQXVyNjY1NTg5MTI@._V1_.jpg",
+      "name": "Jamtara",
+      "rating": "7.3",
+      "genre": "Crime, Drama",
+      "trailer_link": "https://youtu.be/sy_bFs4Ohro",
+      "description": "Phishing,Town",
+      "category": "18+"
+  },
+ 
+  {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT62awQPxN9Hojfs2Ha5Poz246gAObjQ8LLQ&s",
+      "name": "Lust Stories",
+      "rating": "7.6",
+      "genre": "Drama, Romance",
+      "trailer_link": "https://youtu.be/nL1j8J_ptuA",
+      "description": "Modern, Relationships",
+      "category": "18+"
+  }]
